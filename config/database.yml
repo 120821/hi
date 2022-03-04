@@ -1,0 +1,9 @@
+development:
+   database: test_crud
+   adapter: mysql2
+   encoding: utf8
+   pool: 5
+   username: root
+   password: 88888888
+
+
